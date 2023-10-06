@@ -10,7 +10,7 @@ P2.12
 
 P2.15
 ---
-![p2 15](https://github.com/BAEKyungHwanSL/HW/assets/144303882/c15cf9a4-5615-4708-937b-b021197717ff)  
+![p2 15](https://github.com/BAEKyungHwanSL/HW/assets/144303882/dfde48a2-c3de-4ee5-b40a-0f464f92459d) 
 ![p2 15-2](https://github.com/BAEKyungHwanSL/HW/assets/144303882/da6c48f2-e163-44fc-aea6-278139d795cf)
 
 P2.26
